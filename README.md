@@ -1,0 +1,3 @@
+# Credit-Card-Fraud-Detection
+*This project presents the investigation of various techniques used to determine the performance of various method used such as logistic regression ,naïve bayes , K-nearest neighbour, support vector machines (SVM), decision tree, random forest classification , k-means and keras on the credit card fraud detection dataset. The techniques are applied on the raw and refined data. The work is implemented in Python. The techniques are evaluated on the basis of accuracy. The results show the maximum accuracy of random forest classification(RFC) over
+other applied methods and the comparative study shows that random forest classification (RFC) performs better than any other method applied.*
